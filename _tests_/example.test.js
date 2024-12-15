@@ -9,3 +9,7 @@ test('adds 1 + 2 to equal 3', () => {
   test('multiply 5 * 3 to equal 15', () => {
     expect(5 * 3).toBe(15);
   });
+
+  test('divide 8 * 2 to equal 4', () => {
+    expect(8 / 2).toBe(4);
+  });
